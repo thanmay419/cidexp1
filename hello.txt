@@ -1,0 +1,3 @@
+Hello, I am Thanmay.
+This is my first Git experiment.
+I am learning Git operations using VS Code.
